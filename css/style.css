@@ -148,3 +148,7 @@ code {
 .self-center {
     align-self: center;
 }
+
+#answer-display {
+    color: white;
+}
