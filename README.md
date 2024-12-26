@@ -37,19 +37,19 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create an immutable variable that will store a reference to the paragraph tag with the id of `response`.
-    - [ ] Create a mutable variable called `age`, but do not assign it a value.
-    - [ ] Write your conditional logic inside the `checkAgeAndRespond` function.
-    - [ ] Read and try to understand the code that exists already. Write notes/questions and bring them to class.
+- [X] Navigate to the Assignment Page
+- [X] Read the assignment overview and output section.
+- [X] In `assignment.js`:
+    - [X] Create an immutable variable that will store a reference to the paragraph tag with the id of `response`.
+    - [X] Create a mutable variable called `age`, but do not assign it a value.
+    - [X] Write your conditional logic inside the `checkAgeAndRespond` function.
+    - [X] Read and try to understand the code that exists already. Write notes/questions and bring them to class.
 
 
 ### Tips
 - Push a commit for each task completed. Include a meaningfull commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
-- Get used to using your browser's developer tools now. For now, become familiar with: 
+- Get used to using your browser's developer tools now. For now, become familiar with:
     - Toggling between desktop mode and device emulation/responsive mode.
     - Using inspector mode to inspect elements.
 - If you get stuck, please remember that you have various resources available to you.
