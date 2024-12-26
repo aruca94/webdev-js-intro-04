@@ -25,7 +25,7 @@ submissionBtn.addEventListener("click", function () {
     checkAgeAndRespond();
 });
 
-
+// ask questions about this 
 function validateInput(event) {
     const invalidCharacters = ["e", "E", "-", "0", "+"];
     if (invalidCharacters.includes(event.key)) {
